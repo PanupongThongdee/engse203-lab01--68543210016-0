@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanupongThongdee/engse203-lab01--68543210016-0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PanupongThongdee/engse203-lab01--68543210016-0/issues"
+  },
+  "homepage": "https://github.com/PanupongThongdee/engse203-lab01--68543210016-0#readme"
 }
